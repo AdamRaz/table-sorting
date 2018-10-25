@@ -12,3 +12,7 @@ Adam Razzak
 
 ## Acknowledgements
 see code comments
+
+## Project preview:
+
+![image of table sorting app screen](./table-sorting.PNG "nfl show app screen")
